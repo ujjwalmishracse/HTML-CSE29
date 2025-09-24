@@ -3,10 +3,38 @@
     <head>
          <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, intial- scale"
-         <title>text</title>
+         <title>document</title>
     </head>
     <body>
         <font size="+2" colour="00FF00">Hello World</font>
+        <b>Ujjwal Mishra</b>
+        <i>CSE 29</i>
+        <u>web designing </u>
+        <pre>Performatted</pre>
+        <h2>
+        <p><bold>important</bold></p>
+        <p><i>Italic text (using&Iti&gtO)</i></p>
+        <p><em>Emphasized text (using&Item&gt)</em></p>
+        <p><u>underlined text (using&Itu&gt)</u></p>
+        <p><mark>Highlighted text (using&Itmark&gt)</mark></p>
+        <p><small>Small text(using&Itsmall&gt)</small>small></p>
+        <p>H<sub>2</sub>O ? Subscipt example</p>
+        <p>X <sup>2</sup>?Superscript example</p>
+        <p><del>Deleted text(using&Itins&gt</del></p>
+        <p><ins>Inserted text(using&Itins&gt)</ins></p>
+        <p><code>Inline code(using&Itcode&gt)</code></p>
+        <p><kbd>Keyboard input(using&Itkbd&gt)</kbd></p>
+        <p><pre>Performatted text(using&Itpre&gt)</pre></p>
+        keeps spacesand line breaks 
+        <p><blockquote>This is blockquote(long quotation)</blockquote></p>
+        <p><q>this is short quotation(using&Itq&gt</q></p>
 
+        <p><b>Special characters & Entities</b></p>
+        <p>Less than:</p>
+
+
+        
+
+        
     </body>
     </html>
